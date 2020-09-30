@@ -5,4 +5,25 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ac88da0c-4cb9-4e1e-b548-722db1c8f1f5</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>a6a6b4c3-c946-4ef0-939d-f8992571d284</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>1af22255-ed7f-4377-9531-0e29002c6faf</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com/?fbclid=IwAR0hOMTaed6_a61Ca1umkqUR3I5TVz56wZY6iDN54DmJw9PLVj-deg8WkuU'</defaultValue>
+      <description></description>
+      <id>87a7ec45-efb0-4a67-a5eb-24565c67597f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
 </TestCaseEntity>

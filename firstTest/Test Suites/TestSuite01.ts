@@ -16,12 +16,48 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC001</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a6a6b4c3-c946-4ef0-939d-f8992571d284</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1af22255-ed7f-4377-9531-0e29002c6faf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>87a7ec45-efb0-4a67-a5eb-24565c67597f</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>0ca3fc75-c740-49bb-9143-81640abb7942</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC002</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>46379b59-3ca2-408c-9edb-4d9e74cf2bfd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>da15d316-521b-4d37-9630-8094f3b4eddf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dca41805-0b13-46be-8c69-76d021c0975e</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>16735c5d-84dc-4e9e-b0de-f2681f133645</guid>

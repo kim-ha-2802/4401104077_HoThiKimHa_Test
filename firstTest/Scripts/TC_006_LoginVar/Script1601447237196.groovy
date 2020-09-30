@@ -22,13 +22,13 @@ WebUI.navigateToUrl(url)
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), username)
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), user)
 
 WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), pass)
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
-WebUI.waitForElementPresent(findTestObject('Page_CURA Healthcare Service/h2_Make Appointment'), 30)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/h2_Make Appointment'), 30)
 
 WebUI.verifyElementText(findTestObject('Page_CURA Healthcare Service/h2_Make Appointment'), 'Make Appointment')
 
