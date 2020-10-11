@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_009_lab8_addDataFromFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc0c8782-d870-4f8d-a421-897e89aa46b5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c820b2b-99a9-4a1e-b6e4-48f2f2a844a0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4fccfd4e-e85b-4414-a321-eb0f806c3f40</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

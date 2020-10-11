@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_007_profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3835060a-1056-435b-b4d6-2cb4e724a61d</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.username</defaultValue>
+      <description></description>
+      <id>84148dd1-5496-4cd3-9850-d5c327df2ca3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
